@@ -1,7 +1,7 @@
 package org.tonypacer.jdbc;
 
-import com.ibeifeng.bigdata.usertrack.conf.ConfigurationManager;
-import com.ibeifeng.bigdata.usertrack.constant.Constants;
+import org.tonypacer.conf.ConfigurationManager;
+import org.tonypacer.constant.Constants;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
